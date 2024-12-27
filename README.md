@@ -61,7 +61,7 @@ This project is a real-time **Network Anomaly Detection System** that captures l
 
 3. Run the application with administrator privileges:
    ```bash
-   sudo python main.py  # Use admin privileges for packet sniffing
+   python main.py  # Use admin privileges (sudo) for packet sniffing if you need to
    ```
 
 4. Open the web browser and visit:
